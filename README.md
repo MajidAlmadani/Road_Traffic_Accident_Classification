@@ -6,7 +6,7 @@ Welcome to the Road Traffic Accident Exploratory Data Analysis (EDA) project! Th
 - Exploratory Data Analysis: Detailed examination of traffic accident characteristics.
 - Correlation Analysis: Investigation of relationships between different features.
 - Model Evaluation: Comparison of various machine learning models to predict accident severity.
-####Findings:
+#### Findings:
 - Strong correlations between the number of vehicles involved and accident severity.
 - Evaluation of multiple machine learning models with Decision Tree Classifier performing the best.
 #### Recommendations:
